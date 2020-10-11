@@ -10,4 +10,4 @@ read city
 curl wttr.in/$city
 ```
 
-![Sample Result] [weather1.png]
+![Sample Result] [weathercheck1.png]
