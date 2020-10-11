@@ -10,4 +10,4 @@ read city
 curl wttr.in/$city
 ```
 
-![Sample Result] (https://github.com/Tuttu7/Script-to-check-Weather-Report/blob/main/weathercheck1.png?raw=true)
+
